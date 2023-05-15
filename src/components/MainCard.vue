@@ -47,7 +47,7 @@
                 </div>
                 <div class="button-container">
                     <div class="projects-button">
-                        <a href="">My projects</a>
+                        <a href="">My project</a>
                     </div>
                     <div class="projects-button">
                         <a href="">My CV</a>
