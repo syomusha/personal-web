@@ -1,0 +1,19 @@
+{
+    "ProjectsArray" : [
+        {
+            "id" : 1,
+            "Title" : "Project One",
+            "About" : "my first solo proj"
+        },
+        {
+            "id" : 2,
+            "Title" : "Project Two",
+            "About" : "my second solo proj"
+        },
+        {
+            "id" : 2,
+            "Title" : "Project Two",
+            "About" : "my second solo proj"
+        }
+    ]
+}
